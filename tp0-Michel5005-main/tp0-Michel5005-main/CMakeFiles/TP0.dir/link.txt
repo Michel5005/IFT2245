@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/TP0.dir/main.c.o -o TP0 

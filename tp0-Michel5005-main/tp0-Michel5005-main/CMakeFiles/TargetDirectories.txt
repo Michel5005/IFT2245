@@ -1,0 +1,3 @@
+/mnt/c/Users/Michel/CLionProjects/tp0-Michel5005/CMakeFiles/TP0.dir
+/mnt/c/Users/Michel/CLionProjects/tp0-Michel5005/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Michel/CLionProjects/tp0-Michel5005/CMakeFiles/rebuild_cache.dir
