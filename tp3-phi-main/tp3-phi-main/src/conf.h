@@ -1,0 +1,12 @@
+#ifndef CONF_H
+#define CONF_H
+
+enum {
+  NB_FRAMES = 32,
+  NB_PAGES = 256,
+  PAGE_FRAME_SIZE = 256,
+  TLB_NB_ENTRIES = 8,
+  PHYSICAL_MEMORY_SIZE = (NB_FRAMES * PAGE_FRAME_SIZE)
+};
+
+#endif
